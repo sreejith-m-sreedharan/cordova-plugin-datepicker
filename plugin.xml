@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <plugin xmlns="http://www.phonegap.com/ns/plugins/1.0"
-        id="com.expsree.datepicker"
+        id="com.expsree.cordova.plugin.datepicker"
         version="1.0.0">
 
     <name>DatePicker</name>
